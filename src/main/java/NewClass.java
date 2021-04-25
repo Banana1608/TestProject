@@ -4,4 +4,5 @@ public class NewClass {
 	private int j = 0;
 	
 	private int a = 0;
+	private int b = 0;
 }
