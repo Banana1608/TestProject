@@ -10,5 +10,6 @@ public class NewClass2 {
 
 	
 	private int e = 0;
+	private int f = 0;
 
 }
