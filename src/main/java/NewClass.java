@@ -10,4 +10,6 @@ public class NewClass {
 	private int c = 0;
 	
 	private int e = 0;
+	
+	private int l = 0;
 }
