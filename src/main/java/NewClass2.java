@@ -8,4 +8,7 @@ public class NewClass2 {
 	private int c = 0;
 	private int d = 0;
 
+	
+	private int d = 0;
+
 }
