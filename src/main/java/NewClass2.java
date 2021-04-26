@@ -9,6 +9,6 @@ public class NewClass2 {
 	private int d = 0;
 
 	
-	private int d = 0;
+	private int e = 0;
 
 }
